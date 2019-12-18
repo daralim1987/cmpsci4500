@@ -1,0 +1,5 @@
+The number of circle that were used for the game is: 10
+The number of arrow that were used for the game is: 14
+The total number of checks on all the circles combined is: 14
+The average number of checks in a circle marked during the game is: 1.4
+The maximum number of checks in any one circle is: 5
